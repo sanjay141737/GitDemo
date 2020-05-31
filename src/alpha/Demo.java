@@ -11,6 +11,7 @@ public class Demo {
 			log.debug("Obj is present");
 		log.error("Obj is NOT present");
 		log.fatal("This is fatal");
+		System.out.println("I am the changes made by Asian guy");
 
 	}
 }
