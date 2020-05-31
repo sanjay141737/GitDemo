@@ -1,0 +1,12 @@
+11:58:02.518 [main] ERROR alpha.Demo - Obj is NOT present
+11:58:02.520 [main] FATAL alpha.Demo - This is fatal
+11:58:17.355 [main] ERROR beta.Demo1 - Obj is NOT present
+11:58:17.357 [main] FATAL beta.Demo1 - This is fatal
+11:58:53.577 [main] DEBUG alpha.Demo - I am debugging
+11:58:53.579 [main] DEBUG alpha.Demo - Obj is present
+11:58:53.579 [main] ERROR alpha.Demo - Obj is NOT present
+11:58:53.580 [main] FATAL alpha.Demo - This is fatal
+11:59:03.524 [main] DEBUG beta.Demo1 - I am debugging
+11:59:03.527 [main] DEBUG beta.Demo1 - Obj is present
+11:59:03.527 [main] ERROR beta.Demo1 - Obj is NOT present
+11:59:03.527 [main] FATAL beta.Demo1 - This is fatal
