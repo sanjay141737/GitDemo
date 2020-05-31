@@ -12,6 +12,6 @@ public class Demo {
 		log.error("Obj is NOT present");
 		log.fatal("This is fatal");
 		System.out.println("I am the changes made by Asian guy");
-
+System.out.println("Changes made by american guy");
 	}
 }
